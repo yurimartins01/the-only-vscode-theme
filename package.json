@@ -1,0 +1,27 @@
+{
+  "name": "the-only",
+  "displayName": "The Only",
+  "publisher": "The-Only",
+  "description": "",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.136.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Only",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-only-color-theme.json"
+      }
+    ]
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/yurimartins01/the-only-vscode-theme.git"
+  }
+}
