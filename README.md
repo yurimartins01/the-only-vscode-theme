@@ -1,10 +1,11 @@
 
-<div style=" position: relative; width: 100%; height: 130px;">
+<div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1anA5aDl5NHEzbjcxMTMwaGpwN3p6YnRkdHp0bmh1c3dyeG55YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7pkgqSRXQEdKjRcbgO/giphy.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"/>
-<img src="https://github.com/yurimartins01/the-only-vscode-theme/blob/main/docs/logo-vscode-theme.png?raw=true" style="position: absolute; top: 0; left: 37.5%; width: 150px; z-index: 2;"/>
+<img src="https://github.com/yurimartins01/the-only-vscode-theme/blob/main/docs/logo-vscode-theme.png?raw=true"/>
+<br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1anA5aDl5NHEzbjcxMTMwaGpwN3p6YnRkdHp0bmh1c3dyeG55YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7pkgqSRXQEdKjRcbgO/giphy.gif" width="90" height="20" />
+
 </div>
-<br><br>
 
 ### Para muitos, a cor do tema não é tão relevante. Talvez seja apenas um upgrade visual para dar uma diferenciada na hora de codar. Eu não concordo com essa ideia.
 
