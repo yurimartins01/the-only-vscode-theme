@@ -1,29 +1,23 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+trigger:
+- main
 
-# trigger:
-# - main
+pool:
+  vmImage: ubuntu-latest
 
-# pool:
-#   vmImage: ubuntu-latest
-
-# steps:
-# - script: echo Hello, world!
-#   displayName: 'Run a one-line script'
-
-# - script: |
-#     echo Add other tasks to build, test, and deploy your project.
-#     echo See https://aka.ms/yaml
-#   displayName: 'Run a multi-line script'
 steps:
+
+# Install VS Code Extension Manager (vsce >= v2.26.1 needed) and dependencies
+- script: |
+    npm install -g @vscode/vsce
+    npm install
+  displayName: "Install vsce and dependencies"
+
+# Publish
 - task: AzureCLI@2
-  displayName: 'Get identity details'
+  displayName: "Publish The Only"
   inputs:
-    azureSubscription: 'the-only-publishing'
+    azureSubscription: "the-only-publishing"
     scriptType: pscore
     scriptLocation: inlineScript
     inlineScript: |
-      az rest -u https://app.vssps.visualstudio.com/_apis/profile/profiles/me --resource 499b84ac-1321-427f-aa17-267ca6975798
-
+      vsce publish --azure-credential
