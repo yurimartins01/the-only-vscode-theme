@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://github.com/yurimartins01/the-only-vscode-theme/blob/main/docs/logo-vscode-theme.png?raw=true"/>
@@ -7,47 +6,54 @@
 
 </div>
 
-### Para muitos, a cor do tema não é tão relevante. Talvez seja apenas um upgrade visual para dar uma diferenciada na hora de codar. Eu não concordo com essa ideia.
+### For many people, the color of a theme isn't that important. Maybe it's just a visual upgrade to make coding look a little different. I don't agree with that idea.
 
-Sou do tipo de programador que acredita que um bom tema faz diferença: motiva a produzir, traz conforto e torna o momento de programar mais agradável. É como olhar para o próprio quarto depois de deixá-lo limpo e organizado.
+I'm the kind of programmer who believes that a good theme makes a difference: it motivates me to work, provides comfort, and makes programming more enjoyable. It's like looking at your own room after cleaning and organizing it.
 
-Por isso, decidi iniciar a versão beta daquele que pode ser o único tema capaz de me agradar completamente: o meu. Não é à toa que ele tem esse nome.
+That's why I decided to start the beta version of what might be the only theme capable of completely satisfying me: **my own**. It's no coincidence that it has this name.
 
-**The Only** traz uma experiência suave e, ao mesmo tempo, marcante. Única, eu diria. Um tema escuro, sofisticado, moderno e com uma certa nostalgia, criado para transformar o ambiente de desenvolvimento em um lugar onde dá vontade de ficar.
-
-
-The Only te traz uma experiência suave e ao mesmo tempo marcante, única eu diria. Um tema escuro sofisticado, moderno e nostálgico.
+**The Only** brings an experience that is smooth yet striking. Unique, I'd say. A sophisticated, modern and slightly nostalgic dark theme, created to turn your development environment into a place where you actually want to stay.
 
 ## 🖼️ Previews
 
 <details>
-<summary> Vscode padrão </summary>
-<img src="./docs/the-only-tradicional.jpg" alt="Preview tema vscode The Only - Posição da Activity Bar padrão e Primary Side Bar a esquerda" />
+<summary> VS Code Default Layout </summary>
+<img src="./docs/the-only-tradicional.jpg" alt="The Only VS Code theme preview - Default Activity Bar position and Primary Side Bar on the left" />
 </details>
+
 <details>
-<summary> Como eu prefiro </summary>
-<img src="./docs/the-only-minha-config.jpg" alt="Preview tema vscode The Only - Posição da Activity Bar padrão e Primary Side Bar a esquerda" />
+<summary> My Preferred Layout </summary>
+<img src="./docs/the-only-minha-config.jpg" alt="The Only VS Code theme preview - My preferred VS Code layout" />
 </details>
 
-## 🎨 Paleta de cores
+## 🧩 Installation
 
-A identidade do **The Only** gira em torno de um **verde-lima vibrante**, usado como cor de destaque sobre um fundo escuro quase preto. Para a sintaxe, a paleta combina **roxos, azuis, cianos, verdes e tons frios**, criando contraste e hierarquia sem deixar o código visualmente carregado.
+### Preferred Installation Method
 
-A ideia é encontrar um equilíbrio entre **conforto para longas sessões de programação** e uma aparência marcante o suficiente para tornar a experiência diferente.
+Install the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=The-Only.the-only).
 
-## 🧪 Beta & Contribuições
+### Manual Installation
 
-O **The Only ainda está em fase beta**. Este é um projeto que estou iniciando e também uma oportunidade para aprender mais sobre a criação e manutenção de temas para o VS Code.
+Download the VSIX from the [latest GitHub release](https://github.com/yurimartins01/the-only-vscode-theme/releases). Open the Command Palette and select **"Extensions: Install from VSIX..."**, then open the file you just downloaded.
 
-Por isso, **feedbacks, sugestões, novas paletas de cores, melhorias de contraste e correções de bugs são muito bem-vindos**. A ideia é continuar refinando o tema com o tempo e, quem sabe, fazer dele uma experiência que também agrade outras pessoas além de mim.
+## 🎨 Color Palette
 
-Se encontrar algum problema ou tiver uma ideia para melhorar o tema, sinta-se à vontade para abrir uma **Issue** ou contribuir com o projeto.
+The identity of **The Only** revolves around a **vibrant lime green**, used as the primary accent color against an almost-black dark background. For syntax highlighting, the palette combines **purples, blues, cyans, greens, and other cool tones**, creating contrast and hierarchy without making the code feel visually overwhelming.
+
+The goal is to find a balance between **comfort during long coding sessions** and a distinctive appearance that makes the experience feel different.
+
+## 🧪 Beta & Contributions
+
+**The Only is still in beta.** This is a project I'm just getting started with, as well as an opportunity for me to learn more about creating and maintaining VS Code themes.
+
+Because of that, **feedback, suggestions, new color palettes, contrast improvements, and bug fixes are more than welcome**. The idea is to keep refining the theme over time and, hopefully, turn it into an experience that other people enjoy as much as I do.
+
+If you find a problem or have an idea that could improve the theme, feel free to open an **Issue** or contribute to the project.
 
 <br>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&duration=3000&pause=7000&color=AAEE00&background=0F1014&center=true&width=700&lines=%3C+The+Only++%2F%3E" alt="Typing SVG" /></a>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1anA5aDl5NHEzbjcxMTMwaGpwN3p6YnRkdHp0bmh1c3dyeG55YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7pkgqSRXQEdKjRcbgO/giphy.gif" width="700" height="20" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&duration=3000&pause=7000&color=AAEE00&background=0F1014&center=true&width=700&lines=%3C+The+Only++%2F%3E" alt="Typing SVG" /></a> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1anA5aDl5NHEzbjcxMTMwaGpwN3p6YnRkdHp0bmh1c3dyeG55YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7pkgqSRXQEdKjRcbgO/giphy.gif" width="700" height="20" />
 
 </div>

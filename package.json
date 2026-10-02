@@ -1,16 +1,29 @@
 {
   "name": "the-only",
   "displayName": "The Only",
-  "publisher": "The-Only",
-  "description": "",
+  "description": "A sophisticated dark theme with a modern and unique touch",
   "version": "0.1.0",
+  "publisher": "The-Only",
+  "author": "Mrtnsy",
+  "license": "MIT",
+  "icon": "./docs/logo-vscode-theme.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurimartins01/the-only-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.136.0"
   },
   "categories": [
     "Themes"
   ],
-  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "green",
+    "modern",
+    "minimalist"
+  ],
   "contributes": {
     "themes": [
       {
@@ -19,9 +32,5 @@
         "path": "./themes/the-only-color-theme.json"
       }
     ]
-  },
-  "repository": { 
-    "type": "git",
-    "url": "https://github.com/yurimartins01/the-only-vscode-theme.git"
   }
 }

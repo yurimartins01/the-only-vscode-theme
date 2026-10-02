@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "only-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
+## [0.1.0] - 10/02/2026
+
+### Added
+
 - Initial release
+- Exclusive color palette focused on readability and visual comfort.
